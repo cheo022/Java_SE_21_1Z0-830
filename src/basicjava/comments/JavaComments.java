@@ -1,4 +1,4 @@
-package basic_java.comments;
+package basicjava.comments;
 
 public class JavaComments {
     /*

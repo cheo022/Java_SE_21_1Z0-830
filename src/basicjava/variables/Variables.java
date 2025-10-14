@@ -1,4 +1,4 @@
-package basic_java.variables;
+package basicjava.variables;
 
 public class Variables {
 

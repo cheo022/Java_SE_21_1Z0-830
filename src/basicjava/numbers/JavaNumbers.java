@@ -1,4 +1,4 @@
-package basic_java.numbers;
+package basicjava.numbers;
 
 public class JavaNumbers {
     public static void main(String[] args) {

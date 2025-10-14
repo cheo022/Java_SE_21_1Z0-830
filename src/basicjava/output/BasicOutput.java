@@ -1,4 +1,4 @@
-package basic_java.output;
+package basicjava.output;
 
 public class BasicOutput {
     public static void main(String[] args) {
